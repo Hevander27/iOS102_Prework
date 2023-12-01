@@ -1,6 +1,6 @@
-## Introduction
+## Introduce Self
 
-### Introduction for prospective CodePath students, detailing nam,school, year, and pet count
+### Introduction for prospective CodePath students, detailing name,school, year, and pet count.
 
 `TODO://` Add app description
 
